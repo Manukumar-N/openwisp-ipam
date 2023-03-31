@@ -29,7 +29,7 @@ setup(
     description='IP address space administration module of OpenWISP.',
     long_description=README,
     url='https://github.com/Manukumar-N/openwisp-ipam',
-    download_url='https://github.com/openwisp/openwisp-ipam/releases',
+    download_url='https://github.com/Manukumar-N/openwisp-ipam/releases',
     platforms=['Platform Independent'],
     keywords=['django', 'freeradius', 'networking', 'openwisp'],
     packages=find_packages(exclude=['tests*', 'docs*']),
